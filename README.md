@@ -1,10 +1,10 @@
 ## I'm student and beginner frontend developer 
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=fa5300
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=Html&logoColor=fa5300
 )
 
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS&logoColor=0044fa
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css&logoColor=0044fa
 )
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=faea00
