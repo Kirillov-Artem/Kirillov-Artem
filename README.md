@@ -12,7 +12,7 @@
 
 
 ### Follow Me
-![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/jopaprokrabik227?igshid=NGVhN2U2NjQ0Yg==) 
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/jopaprokrabik227?igshid=NGVhN2U2NjQ0Yg==)   
 <!---
 Kirillov-Artem/Kirillov-Artem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
