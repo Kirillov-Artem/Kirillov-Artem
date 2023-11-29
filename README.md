@@ -1,6 +1,6 @@
 ## I'm student and beginner frontend developer 
 
-### Languages anf Tools
+### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=fa5300
 )
 
