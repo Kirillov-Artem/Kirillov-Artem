@@ -1,4 +1,4 @@
-## I'm student and frontend developer 
+## I'm a student and a frontend developer 
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=Html&logoColor=fa5300
